@@ -6,6 +6,8 @@
 
 Construir un chatbot que responda preguntas sobre un conjunto de documentos usando RAG. El sistema debe ser honesto cuando no tiene información suficiente y debe proteger la privacidad del usuario.
 
+Aunque lo construyas con Python, ya sabemos que nuestros ordenadores no son capaces de gestionar un entrenamiento. Por lo que haz la programación en Python para que aprendas cómo funciona, pero a la hora de conectarlo usa un modelo ya entrenado en LM Studio
+
 ## Setup
 
 ```bash
@@ -28,7 +30,7 @@ Crea una carpeta `docs/` con al menos 5 archivos `.txt` que contengan informaci�
 
 ## Arquitectura del sistema
 
-```shell
+```
 docs/              ← tus documentos fuente
   └── *.txt
 indexer.py         ← lee docs, crea embeddings, guarda en ChromaDB
@@ -90,3 +92,4 @@ Implementa:
 - Repositorio en GitHub
 - `README.md` con instrucciones de instalación y cómo indexar los documentos
 - Capturas de conversaciones de prueba en Swagger UI o Postman
+Todos nuestros ejercicios están almacenados en GitHub, así que sigue este [enlace](https://github.com/ironhack-labs/lab-web-py-chatbot-rag) para acceder.
