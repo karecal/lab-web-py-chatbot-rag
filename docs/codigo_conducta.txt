@@ -1,0 +1,94 @@
+TECHNOVA S.L. — CÓDIGO DE CONDUCTA Y ÉTICA PROFESIONAL
+
+Última actualización: enero 2025
+
+1. PROPÓSITO
+
+Este Código de Conducta define los estándares de comportamiento que TechNova S.L. espera de todos sus empleados, directivos, contratistas y colaboradores. Su objetivo es promover un entorno de trabajo respetuoso, seguro, ético e inclusivo.
+
+2. PRINCIPIOS FUNDAMENTALES
+
+2.1 Respeto e inclusión
+TechNova es una empresa comprometida con la diversidad y la inclusión. Todos los empleados tienen derecho a trabajar en un entorno libre de discriminación, acoso o trato injusto por razón de género, edad, etnia, religión, orientación sexual, discapacidad, origen nacional, situación familiar o cualquier otra característica personal.
+
+Comportamientos esperados:
+- Tratar a todas las personas con respeto y dignidad
+- Escuchar activamente y valorar perspectivas diferentes
+- Usar un lenguaje inclusivo y no discriminatorio
+- Señalar comportamientos inadecuados cuando se observen
+
+2.2 Honestidad e integridad
+Los empleados de TechNova actúan con honestidad en todas sus interacciones, tanto internas como externas. Esto incluye:
+- No engañar a compañeros, clientes, socios o proveedores
+- Reportar errores y problemas de forma transparente
+- No falsificar documentos, registros o información
+- Declarar posibles conflictos de interés antes de que surjan
+
+2.3 Confidencialidad
+Los empleados tienen acceso a información confidencial de la empresa, sus clientes y sus empleados. Esta información no debe ser divulgada a terceros sin autorización, ni usada para beneficio personal. La obligación de confidencialidad persiste tras la finalización del contrato.
+
+Información considerada confidencial: estrategia de negocio, código fuente, datos de clientes, datos financieros no públicos, información de candidatos y empleados, contratos y condiciones comerciales.
+
+3. RELACIONES EN EL TRABAJO
+
+3.1 Relaciones entre compañeros
+Se espera que los empleados colaboren de forma constructiva, compartan conocimiento y apoyen a sus compañeros. La competencia interna negativa, el comportamiento obstruccionista o la apropiación indebida del trabajo ajeno son contrarios a los valores de TechNova.
+
+3.2 Relaciones entre managers y reportes directos
+Los managers tienen responsabilidad adicional de garantizar un entorno justo y psicológicamente seguro. No está permitido:
+- Favoritismo o trato diferencial injustificado
+- Represalias contra empleados que reporten problemas
+- Abuso de autoridad o microgestión excesiva
+- Solicitar tareas fuera del ámbito laboral a los reportes directos
+
+3.3 Relaciones románticas
+Las relaciones románticas entre empleados de la misma cadena de reporte directo deben ser declaradas a RR.HH. para evaluar posibles conflictos de interés y, si es necesario, realizar ajustes organizativos. Las relaciones entre empleados sin relación jerárquica son asunto privado.
+
+4. ACOSO Y COMPORTAMIENTO INAPROPIADO
+
+TechNova tiene tolerancia cero con cualquier forma de acoso, incluyendo:
+- Acoso sexual: comentarios, gestos, proposiciones o contacto físico no deseado de naturaleza sexual
+- Acoso laboral (mobbing): comportamientos humillantes, intimidatorios o que busquen aislar o perjudicar a un compañero
+- Ciberacoso: el mismo tipo de comportamientos a través de medios digitales
+- Bullying: burlas, insultos o comportamientos degradantes
+
+Cualquier empleado que sea víctima o testigo de acoso debe reportarlo a su responsable, a RR.HH. (rrhh@technova.com) o al canal anónimo de denuncias (conducta.technova.internal). Todas las denuncias serán investigadas con confidencialidad. Se prohíben expresamente las represalias contra quien reporte de buena fe.
+
+5. CONFLICTOS DE INTERÉS
+
+Un conflicto de interés surge cuando los intereses personales de un empleado pueden influir o dar apariencia de influir en sus decisiones profesionales. Los empleados deben declarar cualquier posible conflicto a su responsable y a RR.HH.:
+- Participación en empresas que compitan con TechNova o sean proveedoras/clientes
+- Relaciones personales o familiares con candidatos, clientes o proveedores
+- Recepción de regalos o invitaciones de valor superior a 50€ de clientes o proveedores
+
+6. USO ÉTICO DE LA TECNOLOGÍA E IA
+
+Los empleados que usen herramientas de inteligencia artificial en su trabajo deben:
+- No introducir información confidencial de clientes o de la empresa en herramientas de IA de acceso público sin aprobación de seguridad
+- Revisar siempre el output de la IA antes de usarlo en entregables a clientes
+- Ser transparentes con los clientes si una entrega ha sido generada o asistida por IA, cuando sea relevante
+- Cumplir las guías de uso de IA publicadas por el equipo de seguridad
+
+7. COMUNICACIÓN EXTERNA Y REDES SOCIALES
+
+Los empleados que hablen públicamente sobre TechNova (en conferencias, entrevistas, artículos, redes sociales) deben:
+- Dejar claro que las opiniones expresadas son personales si no están respaldadas por TechNova
+- No revelar información confidencial ni estratégica
+- No hacer declaraciones que puedan dañar la reputación de la empresa, clientes o competidores
+- Coordinar con el equipo de comunicación si la intervención pública se hace en nombre de TechNova
+
+8. PROCESO DISCIPLINARIO
+
+Las infracciones a este Código pueden dar lugar a medidas disciplinarias proporcionales a la gravedad:
+- Aviso verbal
+- Aviso por escrito
+- Suspensión temporal
+- Despido disciplinario
+
+Las infracciones graves (acoso, fraude, divulgación de información confidencial, discriminación) pueden dar lugar directamente a despido disciplinario.
+
+9. CANAL DE DENUNCIAS
+
+Canal anónimo: conducta.technova.internal
+Email RR.HH.: rrhh@technova.com
+Todas las comunicaciones serán tratadas con confidencialidad. TechNova prohíbe expresamente cualquier represalia.

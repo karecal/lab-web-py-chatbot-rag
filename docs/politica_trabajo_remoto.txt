@@ -1,0 +1,62 @@
+TECHNOVA S.L. — POLÍTICA DE TRABAJO REMOTO E HÍBRIDO
+
+Última actualización: marzo 2025
+
+1. MODELO DE TRABAJO
+
+TechNova S.L. adopta un modelo híbrido flexible. Los empleados pueden trabajar en remoto hasta 3 días por semana, siendo obligatoria la presencia en oficina al menos 2 días laborables a la semana. Los martes y jueves son los días de presencialidad recomendada para favorecer la colaboración en equipo.
+
+Excepcionalmente, y con autorización expresa de la dirección, algunos puestos pueden ser 100% remotos. Esta modalidad se indica en el contrato o en un addendum firmado por ambas partes.
+
+2. REQUISITOS TÉCNICOS PARA TRABAJO REMOTO
+
+El empleado que trabaje en remoto debe garantizar:
+- Conexión a internet estable de al menos 50 Mbps de bajada y 20 Mbps de subida.
+- Espacio de trabajo ergonómico y adecuado, con privacidad suficiente para mantener la confidencialidad de la información de la empresa.
+- Uso exclusivo de los equipos corporativos proporcionados por TechNova (ver Política de Equipamiento).
+- Conexión a la VPN corporativa durante toda la jornada laboral cuando se acceda a sistemas internos.
+
+3. AYUDA PARA EQUIPAMIENTO REMOTO
+
+TechNova proporciona los siguientes equipos a todos los empleados:
+- Portátil corporativo (Mac o PC según rol)
+- Monitor externo (hasta 27 pulgadas)
+- Teclado y ratón
+- Auriculares con micrófono para videollamadas
+
+Adicionalmente, la empresa abona una ayuda mensual de 30€ para cubrir gastos de electricidad e internet en modalidad remota. Esta ayuda se abona mediante nómina mensualmente y está sujeta a IRPF.
+
+4. HORARIO Y DISPONIBILIDAD
+
+El horario de trabajo estándar es de 9:00 a 18:00 (lunes a jueves) y de 9:00 a 15:00 los viernes. En verano (julio y agosto), el horario intensivo es de 8:00 a 15:00 todos los días.
+
+Los empleados en remoto deben estar disponibles y responder mensajes en un máximo de 30 minutos durante el horario laboral. Deben tener encendida la cámara en las reuniones de equipo y las sesiones de cliente, salvo causa justificada.
+
+5. COMUNICACIÓN Y HERRAMIENTAS
+
+Las herramientas corporativas de comunicación son:
+- Slack: comunicación interna diaria
+- Google Meet: videollamadas y reuniones
+- Jira: gestión de tareas y proyectos
+- Confluence: documentación técnica y de equipo
+- GitHub: control de versiones y code review
+
+Está prohibido el uso de aplicaciones de mensajería personal (WhatsApp, Telegram, etc.) para comunicaciones de trabajo que contengan información confidencial de la empresa o de los clientes.
+
+6. GASTOS DE DESPLAZAMIENTO A OFICINA
+
+Los días que el empleado remoto acuda voluntariamente a la oficina fuera de los días de presencialidad obligatoria no generan derecho a compensación por desplazamiento. Los desplazamientos requeridos por la empresa (reuniones específicas, eventos de equipo) serán cubiertos por la empresa según la Política de Gastos.
+
+7. GESTIÓN DEL RENDIMIENTO EN REMOTO
+
+El trabajo remoto no modifica los objetivos ni los criterios de evaluación del desempeño. Los responsables de equipo realizarán reuniones individuales (1:1) al menos dos veces al mes para hacer seguimiento del trabajo y bienestar del empleado.
+
+8. SEGURIDAD Y PROTECCIÓN DE DATOS
+
+- No está permitido trabajar desde espacios públicos (cafeterías, coworkings no autorizados) con información confidencial o acceso a sistemas de clientes sin VPN.
+- Los empleados deben bloquear el ordenador al alejarse de su puesto de trabajo.
+- Queda prohibido imprimir documentos con información confidencial fuera de las oficinas de TechNova.
+
+9. MODIFICACIÓN DEL ACUERDO
+
+El modelo de trabajo puede revisarse cada 6 meses. Cualquier cambio se comunicará con al menos 30 días de antelación. Los empleados pueden solicitar modificar su modalidad de trabajo enviando una solicitud a rrhh@technova.com, que será valorada en un plazo de 15 días hábiles.

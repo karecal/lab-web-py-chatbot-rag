@@ -1,0 +1,86 @@
+TECHNOVA S.L. — POLÍTICA DE EQUIPAMIENTO Y USO DE RECURSOS TECNOLÓGICOS
+
+Última actualización: enero 2025
+
+1. EQUIPAMIENTO ESTÁNDAR
+
+Al incorporarse, cada empleado recibirá el siguiente equipamiento según su rol:
+
+Roles de ingeniería y producto:
+- MacBook Pro 14" (M3 Pro, 18GB RAM, 512GB SSD) o equivalente PC
+- Monitor externo 27" 4K
+- Teclado mecánico y ratón inalámbrico
+- Auriculares con cancelación de ruido
+- Webcam HD (si el portátil no tiene cámara suficiente)
+
+Roles de ventas, marketing y operaciones:
+- MacBook Air 13" (M2, 16GB RAM, 256GB SSD) o equivalente PC
+- Monitor externo 24"
+- Teclado y ratón inalámbrico
+- Auriculares básicos
+
+Roles de dirección y management:
+- MacBook Pro 16" (M3 Max, 36GB RAM, 1TB SSD)
+- Doble monitor 27"
+- Equipamiento periférico completo
+
+2. SOLICITUD DE EQUIPAMIENTO ADICIONAL
+
+Los empleados pueden solicitar equipamiento adicional justificando la necesidad de negocio. Las solicitudes se realizan en it.technova.internal y requieren aprobación del responsable directo. El presupuesto anual de equipamiento adicional por empleado es de 500€.
+
+Equipamiento especial (servidores, hardware de desarrollo, cámaras profesionales, etc.) requiere aprobación del director del departamento y tiene proceso de compra separado a través de Finanzas.
+
+3. PROPIEDAD Y CUSTODIA
+
+Todo el equipamiento es propiedad de TechNova S.L. y debe ser devuelto en buen estado al finalizar la relación laboral. El empleado es responsable del buen uso y conservación del equipamiento. El deterioro por uso normal no implica responsabilidad; el daño por mal uso o negligencia puede ser repercutido al empleado según el valor residual del bien.
+
+En caso de robo o pérdida, el empleado debe:
+1. Notificar a IT inmediatamente (it@technova.com) para que se bloqueen los accesos
+2. Presentar denuncia ante la policía en un plazo de 24 horas
+3. Remitir copia de la denuncia a IT y RR.HH.
+
+4. USO ACEPTABLE DE EQUIPOS CORPORATIVOS
+
+Los equipos corporativos están destinados principalmente al trabajo. Se permite un uso personal moderado y ocasional (consulta de email personal, navegación web general) siempre que:
+- No afecte al rendimiento laboral
+- No viole ninguna ley ni política de TechNova
+- No descargue ni instale software no autorizado
+- No acceda a contenido inapropiado, ilegal o que suponga riesgo de seguridad
+
+5. SOFTWARE Y APLICACIONES
+
+Software aprobado: La lista de software aprobado está disponible en Confluence (software-aprobado.technova.internal). Los empleados pueden instalar cualquier software de esta lista sin proceso de aprobación.
+
+Software no listado: Requiere solicitud a IT indicando el nombre, propósito y alternativas valoradas. IT evaluará en 5 días hábiles y responderá con aprobación, alternativa recomendada o rechazo justificado.
+
+Software prohibido: Clientes de torrents, software de acceso remoto no corporativo (TeamViewer personal, AnyDesk sin licencia), VPNs no corporativas, criptomonedas, minería de datos.
+
+6. SEGURIDAD DEL DISPOSITIVO
+
+Todos los equipos deben tener:
+- Cifrado de disco activo (FileVault en Mac, BitLocker en Windows) — configurado por IT en la entrega
+- Contraseña de inicio de sesión fuerte (mínimo 12 caracteres, configurada por el empleado)
+- Bloqueo automático de pantalla tras 5 minutos de inactividad
+- Actualizaciones de sistema operativo instaladas en máximo 7 días desde su disponibilidad
+- Antivirus corporativo (Crowdstrike) — instalado por IT, no desinstalar
+
+El empleado no debe desactivar ni modificar ninguna de las configuraciones de seguridad establecidas por IT. Si detectas que alguna configuración no está correctamente establecida, notifica a security@technova.com.
+
+7. INVENTARIO Y AUDITORÍA
+
+IT mantiene un inventario actualizado de todos los equipos. Anualmente se realiza una auditoría en la que el empleado debe confirmar que dispone del equipamiento asignado y su estado. Los equipos se renuevan cada 4 años o antes si el rendimiento es insuficiente para las necesidades del rol.
+
+8. DEVOLUCIÓN AL FINALIZAR EL CONTRATO
+
+En el último día de trabajo, el empleado debe:
+- Entregar todo el equipamiento en IT o enviarlo a la oficina más cercana (gastos de envío cubiertos por TechNova)
+- Confirmar que no conserva copias de información confidencial en dispositivos personales
+- Firmar el acta de devolución de equipamiento
+
+El equipamiento no devuelto en los 10 días naturales siguientes a la finalización del contrato podrá ser descontado de la liquidación.
+
+9. TELÉFONO MÓVIL CORPORATIVO
+
+Los roles de ventas, dirección y otros perfiles que requieran disponibilidad o atención a clientes fuera del horario habitual recibirán un teléfono móvil corporativo con línea de datos. La política de uso es la misma que para el portátil. Las llamadas y datos son de uso corporativo; el uso personal moderado está permitido pero no dará lugar a reembolso de costes adicionales por sobreuso del plan.
+
+Contacto IT: it@technova.com | it.technova.internal | Extensión interna: 100

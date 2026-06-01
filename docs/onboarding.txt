@@ -1,0 +1,93 @@
+TECHNOVA S.L. — GUÍA DE ONBOARDING PARA NUEVOS EMPLEADOS
+
+Bienvenido/a a TechNova S.L. Este documento te guiará durante tus primeras semanas en la empresa.
+
+1. ANTES DE TU PRIMER DÍA
+
+Recibirás un email de rrhh@technova.com con:
+- Instrucciones para configurar tu acceso al portal del empleado
+- Formularios de alta en la Seguridad Social y datos bancarios para nómina
+- Información sobre el dress code y la dirección de la oficina
+- Nombre de tu buddy (compañero/a asignado para acompañarte durante el primer mes)
+
+El equipo de IT te enviará por separado las instrucciones para activar tu cuenta corporativa antes de tu primer día. Si no recibes estos emails en los 3 días laborables previos a tu incorporación, contacta con rrhh@technova.com.
+
+2. PRIMER DÍA
+
+Tu primer día comenzará a las 10:00. El/La responsable de RR.HH. te recibirá en recepción y te acompañará durante las actividades del día:
+
+- 10:00–10:30: Bienvenida, entrega de equipamiento y tarjeta de acceso
+- 10:30–11:30: Reunión de bienvenida con tu responsable directo
+- 11:30–13:00: Configuración del equipo con soporte de IT (it@technova.com)
+- 13:00–14:30: Comida de bienvenida con el equipo
+- 14:30–16:00: Sesión introductoria sobre herramientas y procesos con tu buddy
+- 16:00–17:00: Lectura y firma de políticas corporativas (confidencialidad, uso de equipos, código de conducta)
+
+3. PRIMERA SEMANA
+
+Durante tu primera semana completarás el plan de onboarding en Confluence (onboarding.technova.internal). Incluye:
+
+- Módulo 1: Historia y valores de TechNova (1 hora)
+- Módulo 2: Estructura organizativa y equipos (1 hora)
+- Módulo 3: Herramientas y sistemas internos (2 horas)
+- Módulo 4: Seguridad de la información y protección de datos (2 horas, obligatorio antes del fin de la primera semana)
+- Módulo 5: Procesos de tu departamento (coordinado con tu responsable)
+
+También tendrás reuniones de 30 minutos con los responsables de cada departamento para conocer cómo trabajan y cómo colaboraréis.
+
+4. PERÍODO DE PRUEBA
+
+El período de prueba es de 6 meses para roles técnicos y de 3 meses para el resto de posiciones, según lo indicado en tu contrato. Durante este período:
+- Recibirás feedback formal a los 30, 60 y 90 días de tu incorporación.
+- Al mes 5 (para períodos de 6 meses) o al mes 2.5 (para períodos de 3 meses) tendrás una reunión formal de evaluación.
+- Tanto tú como la empresa podéis rescindir el contrato sin preaviso y sin indemnización durante el período de prueba.
+
+5. ACCESOS Y HERRAMIENTAS
+
+Desde IT te proporcionarán acceso a:
+- Google Workspace (email, Drive, Meet, Calendar): usuario nombre.apellido@technova.com
+- Slack: invitación al workspace technova.slack.com
+- GitHub: organización github.com/technova-sl
+- Jira y Confluence: gestión de proyectos y documentación
+- 1Password: gestor de contraseñas corporativo (obligatorio para todas las contraseñas de trabajo)
+
+Para solicitar accesos adicionales, abre un ticket en it.technova.internal indicando la herramienta, el motivo y la aprobación de tu responsable.
+
+6. NÓMINA Y BENEFICIOS
+
+- La nómina se abona el último día hábil de cada mes mediante transferencia bancaria.
+- Seguro médico privado: disponible desde el primer día de contrato. Recibirás las instrucciones de alta por email de rrhh@technova.com.
+- Ticket restaurante: 11€/día laborable, disponible a partir del primer mes completo trabajado.
+- Ticket transporte: hasta 150€/mes en transporte público, disponible a partir del primer mes.
+- Formación: 1.500€/año para formación relacionada con el puesto (ver Política de Formación).
+- Stock options: según lo indicado en tu contrato. El plan de vesting comienza en la fecha de incorporación.
+
+7. ESTRUCTURA DE LA EMPRESA
+
+TechNova S.L. se organiza en los siguientes departamentos:
+- Producto: definición de producto, UX/UI y roadmap
+- Ingeniería: desarrollo backend, frontend, mobile e infraestructura
+- Data: análisis de datos, data engineering y ML
+- Ventas: desarrollo de negocio y gestión de cuentas
+- Marketing: marketing digital, contenidos y comunicación
+- Operaciones: finanzas, legal, RR.HH. y IT
+
+La estructura de liderazgo es: CEO → Directores de área → Managers → Team Leads → Empleados.
+
+8. VALORES DE TECHNOVA
+
+- Transparencia: compartimos información abiertamente, también los errores.
+- Impacto: priorizamos lo que genera valor real para clientes y negocio.
+- Curiosidad: aprendemos continuamente y cuestionamos el status quo.
+- Responsabilidad: cumplimos compromisos y nos hacemos cargo de nuestras decisiones.
+- Cuidado: nos preocupamos por el bienestar del equipo y trabajamos de forma sostenible.
+
+9. CONTACTOS ÚTILES
+
+- RR.HH.: rrhh@technova.com
+- IT (soporte técnico): it@technova.com | it.technova.internal
+- Finanzas/nómina: finanzas@technova.com
+- Seguridad de la información: security@technova.com
+- Emergencias en oficina: +34 91 000 0000
+
+¡Bienvenido/a al equipo! Cualquier duda en tus primeras semanas, no dudes en preguntar a tu buddy o a RR.HH.
